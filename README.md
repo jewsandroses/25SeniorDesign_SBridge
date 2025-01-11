@@ -30,6 +30,8 @@ TBD
 Sean A Bridge - (513) 725-8525 - bridgesn@mail.uc.edu (school) -  bridgesa2020@gmail.com (personal)
 
 ## Version History
+- 0.1.0
+  - Added Sean's Professional Biography (assignment 1)
 - 0.0.0
   - Initial License and README layout 
 
