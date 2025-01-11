@@ -1,35 +1,35 @@
-# 24-25 Senior Design Project
+# [Project Name] 
+[Sean Bridge](https://github.com/jewsandroses) | bridgesn@mail.uc.edu | bridgesa2020@gmail.com
 
-## Description
-TBD
+## Faculty Advisor
+// TODO
 
-## Repo Layout
-The `main` branch is the current most up-to-date version of the project.
+## Abstract
+// TODO
 
-Each branch represents a a different assigned portion of the project in the format...
-> `a<#>-<assignment_name>`  
+## [Project Description](Project_Description.md)
 
-When software development begins, each feature will be in the format...
-> `f<#>-<feature_name>`
+## User Stories and Design Diagrams
 
-Merging an assignment or feature branch will follow the following steps...
-1. Increment the [version number](#version-history)
-2. Merge `main` into the `assignment`/`feature` branch
-3. Resolve any merge conflicts that may arise.
-4. Test code to ensure functionality. 
-5. Merge the `assignment`/`feature` branch into `main` with the following command: `merge --squash <branch_name>`. The merge commit message should include the version number (if it changes) and any change details.
+## Project Tasks and Timeline
 
-If there is a quick fix that needs to be made to `main` then a new commit can be created directly on `main` so long as the commit message is `fix: <commit message>`.       
+## ABET Concerns
+- Presentation
 
-Versions shall be indicated with the following scheme `vA.B.C` where `A` is the major release number (at 0 until first release), `B` is the minor version number (incremented when `assignment` and `feature` branches are merged), `C` is the revision number which may be incremented for incomplete or partial features. 
+## Self Assessment
 
-## Getting Started
-TBD
+## [Professional Biography](SBridgeProfessionalBio2024.md)
 
-## Authors
-Sean A Bridge - (513) 725-8525 - bridgesn@mail.uc.edu (school) -  bridgesa2020@gmail.com (personal)
+## Budget
+
+## Appendix
+- Citations
+- Documentation of Work
 
 ## Version History
+- 0.2.0
+  - Added the [Project Description](Project_Description.md)
+  - Re-organized this README.md to match the project repository specifications
 - 0.1.0
   - Added Sean's Professional Biography (assignment 1)
 - 0.0.0
