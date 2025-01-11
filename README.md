@@ -1,4 +1,4 @@
-# [Project Name] 
+# Taynakh
 [Sean Bridge](https://github.com/jewsandroses) | bridgesn@mail.uc.edu | bridgesa2020@gmail.com
 
 ## Faculty Advisor
@@ -31,6 +31,8 @@
 - 0.3.0
   - Added [Team Contract](Team_Contract.md)
   - Added [Capstone Assessment Essay](Capstone_Assessment.md)
+- 0.2.2
+  - Actually gave the team a name
 - 0.2.1
   - Separated out the Presentation Slides into their own heading in README
 - 0.2.0
