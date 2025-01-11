@@ -28,6 +28,9 @@
 - Documentation of Work
 
 ## Version History
+- 0.3.0
+  - Added [Team Contract](Team_Contract.md)
+  - Added [Capstone Assessment Essay](Capstone_Assessment.md)
 - 0.2.1
   - Separated out the Presentation Slides into their own heading in README
 - 0.2.0
