@@ -14,7 +14,8 @@
 ## Project Tasks and Timeline
 
 ## ABET Concerns
-- Presentation
+
+## Design Presentation Slides
 
 ## Self Assessment
 
@@ -27,6 +28,8 @@
 - Documentation of Work
 
 ## Version History
+- 0.2.1
+  - Separated out the Presentation Slides into their own heading in README
 - 0.2.0
   - Added the [Project Description](Project_Description.md)
   - Re-organized this README.md to match the project repository specifications
