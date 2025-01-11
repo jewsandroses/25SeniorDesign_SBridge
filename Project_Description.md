@@ -1,4 +1,4 @@
-# TODO: Project Title
+# Taynakh
 [Sean Bridge](https://github.com/jewsandroses)  
 Computer Science Major  
 bridgesn@mail.uc.edu
