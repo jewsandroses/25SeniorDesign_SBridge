@@ -9,8 +9,13 @@
 
 ## [Project Description](Project_Description.md)
 
-## User Stories and Design Diagrams
+## [User Stories](User_Stories.md) 
 
+## Design Diagrams
+- [Design Diagram 0](./Design_Diagrams/Design%20Diagram_%20D0.jpg)
+- [Design Diagram 1](./Design_Diagrams/Design%20Diagram_%20D1.jpg)
+- [Design Diagram 2](./Design_Diagrams/Design%20Diagram_%20D3.jpg)
+ 
 ## Project Tasks and Timeline
 
 ## ABET Concerns
@@ -28,6 +33,9 @@
 - Documentation of Work
 
 ## Version History
+- 0.4.0
+  - Added User Stories
+  - Added Design Diagrams directory
 - 0.3.0
   - Added [Team Contract](Team_Contract.md)
   - Added [Capstone Assessment Essay](Capstone_Assessment.md)
