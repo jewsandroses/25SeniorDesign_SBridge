@@ -34,6 +34,8 @@
 
 ## Budget
 
+- No expenses to date
+
 ## Appendix
 
 - Citations
@@ -41,6 +43,8 @@
 
 ## Version History
 
+- 0.7.0
+  - Added [Project Constraints](Project_Constraints.md)
 - 0.6.0
   - Added [Timeline](Timeline.md)
 - 0.5.0
