@@ -33,8 +33,10 @@
 - Documentation of Work
 
 ## Version History
+- 0.5.0
+  - Added [Task List](Task_List.md)
 - 0.4.0
-  - Added User Stories
+  - Added [User Stories](User_Stories.md)
   - Added Design Diagrams directory
 - 0.3.0
   - Added [Team Contract](Team_Contract.md)
