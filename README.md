@@ -8,7 +8,7 @@
 
 ## Abstract
 
-// TODO
+Taynakh is a play on the term “Tanakh”, which is the term used for the collaborative summarization of Jewish law. This project is intended to create an open-source and  self-hosted repository of media for the use in personal and academic settings. A user will be able to curate their own collection of academic sources for them to sort, create links between, generate citations for, and search for quotes within.
 
 ## [Project Description](Project_Description.md)
 
@@ -24,11 +24,13 @@
 
 ## [Timeline](Timeline.md)
 
-## ABET Concerns
+## [ABET Concerns](Project_Constraints.md)
 
-## Design Presentation Slides
+## [Fall Design Presentation Slides](Taynakh%20-%20Senior%20Design%20Presentation.pdf)
 
-## Self Assessment
+- [Video of Presentation](https://drive.google.com/file/d/1K_QQtsp9xg3Yn9QWLYaEnPcIm9LNosHd/view?usp=sharing)
+
+## [Self Assessment](Capstone_Assessment.md)
 
 ## [Professional Biography](SBridgeProfessionalBio2024.md)
 
@@ -38,11 +40,14 @@
 
 ## Appendix
 
-- Citations
-- Documentation of Work
+- Citations (none at this time)
 
 ## Version History
 
+- 0.8.0
+  - Added [Fall Design Presentation](Taynakh%20-%20Senior%20Design%20Presentation.pdf)
+  - Fleshed out the [Project Description](Project_Description.md)
+  - Completed the [Abstract](#abstract)
 - 0.7.0
   - Added [Project Constraints](Project_Constraints.md)
 - 0.6.0
